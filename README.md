@@ -1,5 +1,8 @@
 # bun-chinese-garbled
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/0cbdcf13-acd4-4174-98f7-14c13a5b1afc">
+
+
 To install dependencies:
 
 ```bash
